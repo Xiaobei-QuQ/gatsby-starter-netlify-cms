@@ -8,7 +8,7 @@ featuredimage: /img/jumbotron.jpg
 tags:
   - Test
 ---
-\`\``js
+```js
 
 function (){
 
@@ -16,4 +16,4 @@ console.log(111)
 
 }
 
-\`\``
+```
